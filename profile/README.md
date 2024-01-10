@@ -23,4 +23,28 @@
 | *"A satisfied needs are no longer a motivator"* <br>
 <img src="/profile/assets/0001.jpg" style="width:50%;" alt="0.01의 차이"/>
 
+## 👑 명예의 전당
+```
+반장: 예진
+CA1: 승호
+CA2: 창용
+서술형요정: TBA
+첫째딸: TBA
+둘째딸: TBA
+셋째딸: TBA
+막내딸: TBA
+첫째아들: TBA
+둘째아들: TBA
+셋째아들: TBA
+막내아들: 송중기
+git짱: TBA
+java짱: TBA
+알고짱: TBA
+front짱: TBA
+db짱: TBA
+back짱: TBA
+spring짱: TBA
+vue짱: TBA
+```
+
 
