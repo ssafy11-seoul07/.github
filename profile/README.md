@@ -1,6 +1,8 @@
-# SSAFY11 - SEOUL07 <br>
+# SSAFY11 - SEOUL07 
+<br>
 
-## 🍑 [오늘의 수업 ](https://github.com/ssafy11-seoul07/today/) <br>
+## 🍑 [오늘의 수업 ](https://github.com/ssafy11-seoul07/today/) 
+<br>
 
 ## 🎁 우리반 규칙
 ```
