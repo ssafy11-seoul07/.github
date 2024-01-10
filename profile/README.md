@@ -15,7 +15,7 @@
 
 ## 우리의 마음가짐
 | *"Rome was not built in a day"* <br>
-| *"A satisfied needs are no longer a motivator"*
+| *"A satisfied needs are no longer a motivator"* <br>
 ![0.01의차이](./assets/0001.jpg)
 
 
