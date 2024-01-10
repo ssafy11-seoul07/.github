@@ -12,7 +12,7 @@
 7️⃣ 웃긴건 같이 웃기. 혼자 웃지 않기.
 8️⃣ 교수님 논문 검색금지(GS). 교수님 나이 추측금지.
 ```
-
+## [오늘의 수업 ](https://github.com/ssafy11-seoul07/today/)
 ## 우리의 마음가짐
 | *"Rome was not built in a day"* <br>
 | *"A satisfied needs are no longer a motivator"* <br>
