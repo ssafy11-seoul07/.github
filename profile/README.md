@@ -21,6 +21,6 @@
 ## 🎀 우리의 마음가짐
 | *"Rome was not built in a day"* <br>
 | *"A satisfied needs are no longer a motivator"* <br>
-<img src="./assets/0001.jpg" style="width:50%;" alt="0.01의 차이"/>
+<img src="/profile/assets/0001.jpg" style="width:50%;" alt="0.01의 차이"/>
 
 
