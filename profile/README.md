@@ -1,8 +1,8 @@
-# SSAFY11 - SEOUL07 🍑 <br>
+# SSAFY11 - SEOUL07 <br>
 
-## [오늘의 수업 ](https://github.com/ssafy11-seoul07/today/) <br>
+## 🍑 [오늘의 수업 ](https://github.com/ssafy11-seoul07/today/) <br>
 
-## 우리반 규칙
+## 🎁 우리반 규칙
 ```
 0️⃣ 수업을 위한 기본 셋팅 제발 꼭 절대 잘 따라하기
 1️⃣ 건강이 최우선입니다! 지나치지 말고 조심하세요.
@@ -16,7 +16,7 @@
 ```
 <br>
 
-## 우리의 마음가짐
+## 🎀 우리의 마음가짐
 | *"Rome was not built in a day"* <br>
 | *"A satisfied needs are no longer a motivator"* <br>
 <img src="./assets/0001.jpg" style="width:50%;" alt="0.01의 차이"/>
