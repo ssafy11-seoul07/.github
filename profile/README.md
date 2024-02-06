@@ -28,18 +28,19 @@
 반장: 예진
 CA1: 승호
 CA2: 창용
-서술형요정: TBA
-첫째딸: TBA
+서술형요정: 영준, 창용
+서술형왕자: 김주형
+첫째딸: 예진6
 둘째딸: TBA
 셋째딸: TBA
 막내딸: TBA
-첫째아들: TBA
-둘째아들: TBA
+첫째아들: 김주형
+둘째아들: 김윤홍
 셋째아들: TBA
 막내아들: 송중기
-git짱: TBA
-java짱: TBA
-알고짱: TBA
+git짱: 성진
+java짱: 다영
+알고짱: 영준
 front짱: TBA
 db짱: TBA
 back짱: TBA
