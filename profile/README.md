@@ -29,7 +29,7 @@
 옆반요정: 하이샘
 헤일리왼팔: 손영준
 헤일리오른팔: 배성진
-헤일리등: 송창용
+헤일리등: 송창용(a.k.a gyeongmann) 
 유캔콜미택: 박건택
 반장: 예진
 CA1: 승호
@@ -59,4 +59,4 @@ spring짱: TBA
 vue짱: TBA
 ```
 
-
+[경찬이 gihub](https://github.com/gyeongmann)
